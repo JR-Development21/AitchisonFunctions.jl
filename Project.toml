@@ -1,0 +1,7 @@
+name = "MyFunctions"
+uuid = "4e1f3aab-deed-415e-9dbf-fe7f499876d8"
+authors = ["Jace Ritchie <ritchie.jace@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
